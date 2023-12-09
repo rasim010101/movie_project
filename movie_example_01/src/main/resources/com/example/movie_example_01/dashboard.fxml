@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1100.0" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.movie_example_01.Dashboard">
+   <children>
+      <Label layoutX="431.0" layoutY="98.0" text="Welcome">
+         <font>
+            <Font name="Arial Black" size="50.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
